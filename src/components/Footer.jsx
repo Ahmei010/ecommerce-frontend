@@ -5,8 +5,8 @@ import payOne from '../assets/BadgeOne.png';
 import twitter from '../assets/twitter.png';
 import instagram from '../assets/instagram.png';
 import github from '../assets/github.png';
-import facebook from '../assets/group.png';
-import Vector from '../assets/vector.png';
+import facebook from '../assets/Group.png';
+import Vector from '../assets/Vector.png';
 
 const Footer = () => {
   return (
